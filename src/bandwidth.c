@@ -9,7 +9,7 @@
 #define NAME "bandwidth"
 #define BANDWIDTH_MIN  "0"
 #define BANDWIDTH_MAX  "99999"
-#define BANDWIDTH_DEFAULT 10
+#define BANDWIDTH_DEFAULT 0.5
 
 //---------------------------------------------------------------------
 // rate stats
